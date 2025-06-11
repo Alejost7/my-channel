@@ -10,7 +10,7 @@ export default function AboutChannel() {
                 transition={{ duration: 0.6 }}
                 className="text-4xl font-bold mb-6"
             >
-                ¿Qué es ST Tech?
+                ¿Qué es MacheteX?
             </motion.h2>
             <motion.p
                 initial={{ opacity: 0, y: 20 }}
@@ -18,7 +18,7 @@ export default function AboutChannel() {
                 transition={{ delay: 0.3, duration: 0.6 }}
                 className="max-w-3xl mx-auto text-lg"
             >
-                ST Tech es tu canal de referencia para análisis de gadgets, novedades en IA, gameplays y tutoriales técnicos. ¡Explora tecnología de vanguardia y aprende con nosotros!
+                MacheteX es tu canal de referencia para análisis de gadgets, novedades en IA, gameplays y tutoriales técnicos. ¡Explora tecnología de vanguardia y aprende con nosotros!
             </motion.p>
         </section>
     )

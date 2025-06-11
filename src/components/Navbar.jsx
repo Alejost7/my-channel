@@ -6,7 +6,7 @@ const Navbar = () => {
         <nav className="fixed w-full bg-black/80 text-white p-4 flex justify-between items-center z-50">
         <div className="text-xl font-bold flex items-center gap-2">
             <FaYoutube size={28} className="text-red-600" />
-            <span>ST Tech</span>
+            <span>MacheteX</span>
         </div>
         <ul className="hidden md:flex space-x-6">
             <li><a href="#hero" className="hover:text-red-600">Inicio</a></li>
