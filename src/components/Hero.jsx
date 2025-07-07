@@ -24,7 +24,7 @@ export default function Hero() {
             Tu espacio de tecnología, innovación y videojuegos. ¡Únete a nuestra comunidad y descubre el futuro!
         </motion.p>
         <motion.a
-            href="https://www.youtube.com/@STTech322"
+            href="https://www.youtube.com/@AlejoST7"
             target="_blank"
             rel="noopener noreferrer"
             initial={{ scale: 0.8, opacity: 0 }}
