@@ -2,6 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { Instagram } from "lucide-react";
 import { FaYoutube } from "react-icons/fa";
+import { FaFacebook } from "react-icons/fa";
 
 export default function SocialLinks() {
     return (
@@ -20,7 +21,7 @@ export default function SocialLinks() {
                 <Instagram className="text-pink-500 hover:text-pink-600" />
                 </a>
                 <a href="https://www.facebook.com/DiegoSanta007/" target="_blank" rel="noopener noreferrer">
-                <Instagram className="text-pink-500 hover:text-pink-600" />
+                <FaFacebook className="text-blue-600 hover:text-blue-700" />
                 </a>
             </motion.div>
         </section>
