@@ -13,10 +13,13 @@ export default function SocialLinks() {
                 whileInView={{ opacity: 1 }}
                 transition={{ duration: 0.6 }}
             >
-                <a href="https://www.youtube.com/@STTech322" target="_blank" rel="noopener noreferrer">
+                <a href=" https://www.youtube.com/@AlejoST7?sub_confirmation=1" target="_blank" rel="noopener noreferrer">
                 <FaYoutube className="text-red-600 hover:text-red-700" />
                 </a>
-                <a href="https://www.instagram.com/sttech322/" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.instagram.com/alejandro._santander/" target="_blank" rel="noopener noreferrer">
+                <Instagram className="text-pink-500 hover:text-pink-600" />
+                </a>
+                <a href="https://www.facebook.com/DiegoSanta007/" target="_blank" rel="noopener noreferrer">
                 <Instagram className="text-pink-500 hover:text-pink-600" />
                 </a>
             </motion.div>
